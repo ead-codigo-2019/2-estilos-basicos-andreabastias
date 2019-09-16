@@ -1,0 +1,113 @@
+body {
+  font-family:poppins;  
+  font-size: rem;
+  color: #000000;
+  width: 800px;
+  margin: 0 auto;
+}
+h1 {
+  font-family:poppins;  
+  font-size: 2rem;
+  color: #E52621
+}
+p {
+  font-family: poppins;
+  font-size: 0,1;
+  color: #000000;
+}
+h2 {
+  font-family: poppins;  
+  font-size: 1.8rem;
+  color: #E52621
+}
+h3 {
+  font-family: poppins;  
+  font-size: 1.7rem;
+  color: #000000
+}
+h4 {
+  font-family: poppins;  
+  font-size:1.8 rem;
+  color: #000000
+}
+
+.image {
+  margin: 50px;
+  width: 200 px;
+  height:200 px;
+  
+}
+blockquote {
+  font-size: em;
+  margin:10px auto;
+  font-family: 'poppins', sans-serif;
+  color: 0000;
+  padding:0.1em 20px 1.0em 20px;
+  border-left:10px solid #E52621 ;
+  background:white;
+  line-height: 1.30;
+}
+* {
+  font-family: poppins; 
+}
+
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color:#E52621;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+
+.content-table tbody tr.active-row {
+  font-weight: bold;
+  color: #E52621;
+}
+div.img {
+    margin: 5px;
+    float: right;
+    width: 180px;
+    text-align: right;
+      padding: 15px;
+    width: 50%;
+    height: auto;
+}
+code {
+  font-family: monospace;
+  color: #FF06B3;
+}
+#globalWrapper {
+width: 880px;
+margin-left: auto;
+margin-right: auto;
+font-size: 0.3em;
+line-height: 3.5;
+}
+
+
